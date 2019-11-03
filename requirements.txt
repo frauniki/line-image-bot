@@ -1,0 +1,5 @@
+flask
+requests
+line-bot-sdk
+gunicorn
+google-cloud-storage
